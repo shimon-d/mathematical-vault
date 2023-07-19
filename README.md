@@ -1,1 +1,1 @@
-# mathematical-vault
+# Mathematical Vault
